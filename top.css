@@ -1,0 +1,73 @@
+h1{
+    font-family: sans-serif;
+    color: rgba(134, 93, 46, 0.861);
+    text-align: center;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    background-color: rgba(122, 122, 155, 0.6);
+    size: 100px;
+}
+image{
+    width: 100px;
+}
+body{
+    background-color: rgb(144, 144, 45);
+    font-family: fantasy;
+}
+.v1{
+    background-color: aqua;
+    font-weight: 800;
+    column-rule-color: blueviolet;
+
+}
+label{
+    margin-top: 10px;
+    display:block
+}
+input,textarea{
+    border-radius: 5px;
+    border-top: 2px dotted;
+}
+a:hover{
+    background-color: chocolate;
+}
+a:active{
+    color: hotpink;
+}
+a:disabled{
+    color: brown;
+}
+#y1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+section div:first-child{
+    border-radius: 50px;
+}
+section:first-child{
+    background-color: rgb(58, 4, 108);
+    
+    
+}
+.y2{
+    background-color: rgb(160, 130, 40);
+    width: 300px;
+    border-radius: 30px;
+    padding: 15px;
+}
+#l1{ 
+    width: 300px;
+
+
+}
+section{
+    display: flex;
+    gap: 25px;
+}
+.img{
+
+}
