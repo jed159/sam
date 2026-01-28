@@ -1,22 +1,29 @@
-#one of wun photograghy
+# one of wun photograghy
 
-##About
+## About
 
 Photography is a project focused on showcasing and managing photographic content. It can be used to display photo collections, share visual stories, or serve as a foundation for a photography portfolio or gallery application.
 
-##Features
+## Features
 
 -Display high-quality photographs
 -Organize photos into categories or albums
 -Simple and clean layouts
 -Easy to customize and extend
 
-##Technologies Used
+## Technologies Used
 -HTML
 -CSS
 -Javascript
 
-##installation
+## installation
 -https://github.com/jed159/sam.git
 
+## Usage
+correct use of
+## Contributing
+## Author
+jed malusei
+project link:github.co
+Email:jeddymals@gmail.com
 
