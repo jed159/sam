@@ -26,7 +26,7 @@ Open the 'wun.html'file in a web browser to view the gallery.You can add or repl
 contributions are welcomed to improve this project
 fork the repository,make your changes,and commit them with clear messages
 submit a pull request for review and possible inclusions
-## Author
+## Author 
 jed malusei
 project link:github.com
 Email:jeddymals@gmail.com
